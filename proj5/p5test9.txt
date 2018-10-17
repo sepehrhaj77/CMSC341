@@ -1,0 +1,4 @@
+
+Error Report
+   Number of words that should be in H, but are not: 0
+   Number of words that should not be in H, but are: 0

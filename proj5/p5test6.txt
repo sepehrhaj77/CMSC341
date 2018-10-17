@@ -1,0 +1,43 @@
+==== Called SecondaryHT  ====
+aardvark(3238181100) aardwolf(3238232080) aaron(118648145) aback(118665170) abacus(3915951055) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+aardvark(3238181100) aardwolf(3238232080) aaron(118648145) aback(118665170) abacus(3915951055) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+ablutions(658904977) ably(3596296) abnegation(4194810808) 
+SecondaryHT constructor, # attempts = 1
+=== Secondary Hash Table Dump: ===
+Table size = 29
+# of items = 5
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = abacus
+T2[9] = 
+T2[10] = 
+T2[11] = 
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = 
+T2[17] = 
+T2[18] = 
+T2[19] = 
+T2[20] = 
+T2[21] = aback
+T2[22] = aardvark
+T2[23] = 
+T2[24] = 
+T2[25] = 
+T2[26] = 
+T2[27] = aaron
+T2[28] = aardwolf
+==================================

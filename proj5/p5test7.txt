@@ -1,0 +1,2223 @@
+==== Called SecondaryHT  ====
+extolling(2686705846) fetes(124723351) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+blow(3643220) cloakrooms(1373096026) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+assessor(755033779) borne(120337142) clumber(3375712554) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+archaeologists(1494571096) consoles(3337410758) findings(3166845394) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 2 m_shift = 9
+---- reboot #2:  m_tsize = 11 m_multiplier = 33 m_factor = 2 m_shift = 0
+---- reboot #3:  m_tsize = 11 m_multiplier = 35 m_factor = 1 m_shift = 4
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+disillusion(2037923055) enthrone(1605361411) fastens(2522543124) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+blackshirts(2197611194) chalks(4001346838) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 1 m_shift = 0
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+decriminalising(2342708626) educative(1530456794) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+amputee(826289489) excess(4098656875) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+comfortingly(2980015293) construing(1101343372) crossbars(3062530674) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+absolutists(1804216093) diffuser(3519030680) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+calipers(2346627123) fifes(124851853) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+betoken(1809192584) chromosomal(1492313636) counterpointed(3093276595) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+dissimilarities(3573782223) feinting(2112513140) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+burrow(3978246017) felling(2670500097) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 1
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+conclusion(1603095133) declined(2537398744) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+boardgames(3408137717) engulf(4086958593) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+clerics(3356925061) coinciding(4213502135) extraordinarily(15090433) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+cloistered(3430003790) distributable(703308526) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+falsifying(4227027628) fingerless(3558669746) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+asymptotic(1531246541) dullest(713726269) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 2
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+acres(118719694) briny(120435172) coiffure(3126003603) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+alleles(781826722) expatriates(4041046922) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+butts(120555154) dormitory(1048992937) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+diversification(2567709347) documenting(2569965373) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+deserters(1055372689) dwelling(92391862) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+choristers(2548983910) contritely(2303826925) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 2
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 1 m_shift = 1
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 3 m_shift = 4
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+directing(2716167481) electromagnet(2287997290) ferment(2677647217) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+clavichord(2970061055) disassociated(1243813856) drill(122806935) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+accumulate(649604228) adventurously(2662040037) emissivity(3229665910) encephalopathy(664577269) escarpment(2255269714) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+decelerate(1220120430) explicate(1694505375) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 1
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 0
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 2 m_shift = 2
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+brunches(3515659898) elk(113660) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+arcane(3934995242) benignly(3626718648) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+audit(119351447) comedown(3281281020) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 4
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+collinear(4191412089) duodenum(2186043905) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+belie(119971073) bison(120122651) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+aeolian(511684889) assuaged(773348237) editing(1336626468) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+asked(119287048) entrance(1616608240) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+adults(3919051405) besides(1807783423) calve(121013675) consumerism(3061727669) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+conveys(3485144647) domination(1215588018) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 3
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+cringes(3596335243) degas(122337220) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+aspirations(1752410157) blob(3643199) borneo(3971125797) canonry(2937007162) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+artfully(3798918579) domes(122703256) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+assortments(2068126691) codifying(2329039068) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+conjoined(2408055705) dendrochronological(60205824) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+acquittal(2477402728) falls(124571122) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+boyishly(4087410483) congruences(3475015964) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+cheats(4001478904) eigenvalues(2278740856) fencings(2294754893) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+austerely(3349199358) cheeseburgers(3845985767) era(113848) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+credence(2546482745) dome(3718277) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 1 m_shift = 4
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+declassification(1164829493) educationally(3247215246) fable(124560218) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+aid(109198) creeper(3591277926) diagonalised(2791109828) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+anatomists(111891907) buries(3978235882) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 0
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+alining(778589410) almshouses(3550795972) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+burlesque(3699009976) carboniferous(3145661810) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+designing(1198657720) doubly(4049491567) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+couloir(3493097085) domino(4049211750) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 1 m_shift = 4
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 0
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 2 m_shift = 1
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+bracer(3974060655) esplanade(3341562701) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+attorneys(496526697) epinephrine(421320343) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+checkered(1414557630) coxes(121529314) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+biassing(4001148176) bunyan(3978109421) damnify(4227247432) elect(123772589) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+crucifix(3171598365) epsilon(1817718394) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+avenue(3939825188) behaves(1794470398) den(112343) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+apertures(4044306651) betroths(3872498187) disaster(4021790399) finalise(3163390379) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+anthologise(1816993309) devilishly(97409629) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+certainties(1074446651) electron(2724507452) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+antagonist(3329826648) cornices(3487797302) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+baker(119826117) deism(122339986) dressmaking(2505703032) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+besieging(1582376717) conquer(3484981725) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+buggered(2538982309) contributes(2991081074) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+camouflage(3290637524) conservatives(2588915436) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+dissipating(3574012959) excuse(4098674285) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+bird(3640033) contract(3338692446) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+convects(3340599845) dungeon(715918288) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 2
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+disclaimed(1149700015) exults(4099311397) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+bosnia(3971161852) charter(3195651849) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+altitudes(2914175855) consigns(3337189988) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+burghers(2969565730) dews(3707731) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+bigamous(4214405111) ceded(121148149) censored(3307639475) disclaiming(3580366916) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+consonant(2760440083) danced(4032637951) featuring(3782931621) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+authenticating(1239136824) discussion(1523620484) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 1
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 2
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 1 m_shift = 4
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+antennas(2926578328) blended(2065307950) bylaw(120689567) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 1 m_shift = 0
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+chopper(3212178513) decaffeinated(1400098963) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+cruises(3610399678) exalts(4098592657) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+boardroom(1144891717) defy(3707176) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+brow(3649754) dozy(3718726) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+agakhan(573315755) barber(3954509838) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+congeniality(2708510950) distantly(297123516) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+abdicate(3987000429) drones(4052846539) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 3
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 0
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 1 m_shift = 3
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+electric(2724507243) fireside(3324926699) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+abbots(3916000027) disaggregation(1111602184) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 2
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 1
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+complexities(2589537974) dovecote(3302233529) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 4
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+chastisement(2882031048) coders(4009748704) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+assents(1064078593) cabman(3993082082) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+closedcircuit(4247253869) conglomerates(684877043) erecter(1879179050) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 9 m_shift = 1
+---- reboot #2:  m_tsize = 11 m_multiplier = 33 m_factor = 10 m_shift = 2
+SecondaryHT constructor, # attempts = 3
+==== Called SecondaryHT  ====
+ambassadorial(298251219) canard(3993500809) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+apron(119187200) disrespect(3089491990) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+booby(120333499) craftiest(1654530053) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+ancestries(1717403953) arbitrators(3320138829) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+asylums(1071453070) blizzard(3902212354) creamery(2543203192) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+corporal(3490400962) expansively(627080376) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+astronomic(1008543167) distension(1371643584) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+citruses(117419922) ecologist(3071167721) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+bloodier(4123197264) confuse(3484586867) dictatorially(530558069) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+centrifugation(2359354690) cripple(3596417135) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 1
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 3
+==== Called SecondaryHT  ====
+engendered(448580433) fireproofed(2686908181) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+clutters(4033280310) conducted(2180149785) entice(4087412408) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+billings(128014612) dichotomy(655660880) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+alto(3607440) croons(4013712532) detractor(2834845416) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+absolutist(2787834218) endomorphism(3196652149) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+canaries(2415486342) demeaned(2920163731) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+drags(122798065) flamboyant(4176034221) 
+SecondaryHT constructor, # attempts = 1
+------------- PerfectHT::dump()  -------------
+table size = 401
+
+[0]:  dissimilarity
+[1]:  finisher
+[2]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = extolling
+T2[2] = fetes
+T2[3] = 
+T2[4] = 
+==================================
+
+[3]:  
+[4]:  
+[5]:  ammonium
+[6]:  
+[7]:  
+[8]:  
+[9]:  countrymen
+[10]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = blow
+T2[2] = cloakrooms
+T2[3] = 
+T2[4] = 
+==================================
+
+[11]:  flabby
+[12]:  bonny
+[13]:  birthrights
+[14]:  crueler
+[15]:  
+[16]:  
+[17]:  chipboard
+[18]:  entrepreneurship
+[19]:  biblicists
+[20]:  
+[21]:  breakdowns
+[22]:  
+[23]:  
+[24]:  aspersion
+[25]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = clumber
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = assessor
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = borne
+==================================
+
+[26]:  cheapskates
+[27]:  ear
+[28]:  basest
+[29]:  conveyancing
+[30]:  contentment
+[31]:  
+[32]:  
+[33]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 4
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = archaeologists
+T2[5] = 
+T2[6] = consoles
+T2[7] = 
+T2[8] = 
+T2[9] = findings
+T2[10] = 
+==================================
+
+[34]:  
+[35]:  arrested
+[36]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = fastens
+T2[4] = 
+T2[5] = 
+T2[6] = disillusion
+T2[7] = 
+T2[8] = enthrone
+T2[9] = 
+T2[10] = 
+==================================
+
+[37]:  
+[38]:  banked
+[39]:  
+[40]:  career
+[41]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = chalks
+T2[4] = blackshirts
+==================================
+
+[42]:  
+[43]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = educative
+T2[3] = 
+T2[4] = decriminalising
+==================================
+
+[44]:  
+[45]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = excess
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = amputee
+==================================
+
+[46]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = crossbars
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = construing
+T2[10] = comfortingly
+==================================
+
+[47]:  auctioning
+[48]:  climatologists
+[49]:  duplicability
+[50]:  abstract
+[51]:  
+[52]:  assailant
+[53]:  
+[54]:  enumerator
+[55]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = diffuser
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = absolutists
+==================================
+
+[56]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = calipers
+T2[4] = fifes
+==================================
+
+[57]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = counterpointed
+T2[6] = 
+T2[7] = 
+T2[8] = betoken
+T2[9] = 
+T2[10] = chromosomal
+==================================
+
+[58]:  collieries
+[59]:  expertness
+[60]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = feinting
+T2[1] = 
+T2[2] = 
+T2[3] = dissimilarities
+T2[4] = 
+==================================
+
+[61]:  
+[62]:  
+[63]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = burrow
+T2[2] = felling
+T2[3] = 
+T2[4] = 
+==================================
+
+[64]:  
+[65]:  
+[66]:  executable
+[67]:  extragalactic
+[68]:  
+[69]:  autarchy
+[70]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = conclusion
+T2[4] = declined
+==================================
+
+[71]:  charades
+[72]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = engulf
+T2[2] = 
+T2[3] = 
+T2[4] = boardgames
+==================================
+
+[73]:  
+[74]:  bowls
+[75]:  bobbies
+[76]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = extraordinarily
+T2[3] = 
+T2[4] = clerics
+T2[5] = 
+T2[6] = 
+T2[7] = coinciding
+T2[8] = 
+T2[9] = 
+T2[10] = 
+==================================
+
+[77]:  
+[78]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = cloistered
+T2[1] = 
+T2[2] = distributable
+T2[3] = 
+T2[4] = 
+==================================
+
+[79]:  extracted
+[80]:  
+[81]:  dermic
+[82]:  bored
+[83]:  amenity
+[84]:  czar
+[85]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = falsifying
+T2[1] = fingerless
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[86]:  concerned
+[87]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = asymptotic
+T2[1] = 
+T2[2] = 
+T2[3] = dullest
+T2[4] = 
+==================================
+
+[88]:  concerts
+[89]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = coiffure
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = acres
+T2[10] = briny
+==================================
+
+[90]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = expatriates
+T2[3] = 
+T2[4] = alleles
+==================================
+
+[91]:  
+[92]:  
+[93]:  
+[94]:  flintlocks
+[95]:  commendably
+[96]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = dormitory
+T2[3] = 
+T2[4] = butts
+==================================
+
+[97]:  cotton
+[98]:  draughtsmanship
+[99]:  dressings
+[100]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = diversification
+T2[3] = 
+T2[4] = documenting
+==================================
+
+[101]:  biceps
+[102]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = dwelling
+T2[2] = 
+T2[3] = 
+T2[4] = deserters
+==================================
+
+[103]:  
+[104]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = contritely
+T2[1] = choristers
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[105]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = directing
+T2[1] = 
+T2[2] = 
+T2[3] = ferment
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = electromagnet
+T2[9] = 
+T2[10] = 
+==================================
+
+[106]:  
+[107]:  dunghill
+[108]:  
+[109]:  
+[110]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = clavichord
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = drill
+T2[8] = disassociated
+T2[9] = 
+T2[10] = 
+==================================
+
+[111]:  
+=== Secondary Hash Table Dump: ===
+Table size = 29
+# of items = 5
+# of attempts = 1
+T2[0] = adventurously
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = accumulate
+T2[5] = encephalopathy
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = emissivity
+T2[10] = 
+T2[11] = 
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = escarpment
+T2[17] = 
+T2[18] = 
+T2[19] = 
+T2[20] = 
+T2[21] = 
+T2[22] = 
+T2[23] = 
+T2[24] = 
+T2[25] = 
+T2[26] = 
+T2[27] = 
+T2[28] = 
+==================================
+
+[112]:  
+[113]:  
+[114]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = decelerate
+T2[1] = explicate
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[115]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = elk
+T2[3] = 
+T2[4] = brunches
+==================================
+
+[116]:  
+[117]:  
+[118]:  
+[119]:  affixes
+[120]:  
+[121]:  
+[122]:  arcana
+[123]:  
+[124]:  
+[125]:  
+[126]:  
+[127]:  
+[128]:  
+[129]:  
+[130]:  
+[131]:  
+[132]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = arcane
+T2[1] = 
+T2[2] = 
+T2[3] = benignly
+T2[4] = 
+==================================
+
+[133]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = audit
+T2[1] = 
+T2[2] = comedown
+T2[3] = 
+T2[4] = 
+==================================
+
+[134]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = collinear
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = duodenum
+==================================
+
+[135]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = belie
+T2[2] = 
+T2[3] = bison
+T2[4] = 
+==================================
+
+[136]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = assuaged
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = aeolian
+T2[8] = 
+T2[9] = 
+T2[10] = editing
+==================================
+
+[137]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = entrance
+T2[1] = asked
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[138]:  cinematographer
+[139]:  flyaway
+[140]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 1
+T2[0] = adults
+T2[1] = calve
+T2[2] = besides
+T2[3] = consumerism
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+T2[11] = 
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = 
+==================================
+
+[141]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = conveys
+T2[4] = domination
+==================================
+
+[142]:  
+[143]:  flexion
+[144]:  cacti
+[145]:  
+[146]:  duality
+[147]:  
+[148]:  
+[149]:  brooks
+[150]:  
+[151]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = degas
+T2[2] = 
+T2[3] = cringes
+T2[4] = 
+==================================
+
+[152]:  confess
+[153]:  coxcomb
+[154]:  
+[155]:  accomplish
+[156]:  
+[157]:  
+[158]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = aspirations
+T2[5] = 
+T2[6] = 
+T2[7] = borneo
+T2[8] = canonry
+T2[9] = 
+T2[10] = 
+T2[11] = 
+T2[12] = 
+T2[13] = blob
+T2[14] = 
+T2[15] = 
+T2[16] = 
+==================================
+
+[159]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = artfully
+T2[2] = 
+T2[3] = 
+T2[4] = domes
+==================================
+
+[160]:  crusaded
+[161]:  
+[162]:  
+[163]:  
+[164]:  
+[165]:  crossexamination
+[166]:  
+[167]:  
+[168]:  anise
+[169]:  extra
+[170]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = assortments
+T2[2] = 
+T2[3] = codifying
+T2[4] = 
+==================================
+
+[171]:  equivocal
+[172]:  dermatology
+[173]:  actual
+[174]:  
+[175]:  
+[176]:  
+[177]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = conjoined
+T2[2] = 
+T2[3] = 
+T2[4] = dendrochronological
+==================================
+
+[178]:  
+[179]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = acquittal
+T2[1] = 
+T2[2] = 
+T2[3] = falls
+T2[4] = 
+==================================
+
+[180]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = boyishly
+T2[2] = 
+T2[3] = congruences
+T2[4] = 
+==================================
+
+[181]:  dissociative
+[182]:  
+[183]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = cheats
+T2[2] = 
+T2[3] = fencings
+T2[4] = 
+T2[5] = eigenvalues
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+==================================
+
+[184]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = era
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = austerely
+T2[8] = 
+T2[9] = cheeseburgers
+T2[10] = 
+==================================
+
+[185]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = dome
+T2[2] = 
+T2[3] = 
+T2[4] = credence
+==================================
+
+[186]:  
+[187]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = fable
+T2[2] = declassification
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = educationally
+==================================
+
+[188]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = diagonalised
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = aid
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = creeper
+==================================
+
+[189]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = anatomists
+T2[2] = 
+T2[3] = 
+T2[4] = buries
+==================================
+
+[190]:  finch
+[191]:  
+[192]:  deductible
+[193]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = almshouses
+T2[2] = 
+T2[3] = 
+T2[4] = alining
+==================================
+
+[194]:  discolour
+[195]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = carboniferous
+T2[1] = burlesque
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[196]:  
+[197]:  
+[198]:  cretins
+[199]:  bibliographical
+[200]:  
+[201]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = doubly
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = designing
+==================================
+
+[202]:  cosmetic
+[203]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = 
+T2[1] = domino
+T2[2] = couloir
+T2[3] = 
+T2[4] = 
+==================================
+
+[204]:  assimilation
+[205]:  daisy
+[206]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = bracer
+T2[2] = 
+T2[3] = esplanade
+T2[4] = 
+==================================
+
+[207]:  discontent
+[208]:  
+[209]:  
+[210]:  
+[211]:  
+[212]:  excerpt
+[213]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = epinephrine
+T2[2] = attorneys
+T2[3] = 
+T2[4] = 
+==================================
+
+[214]:  floater
+[215]:  chuckles
+[216]:  characterful
+[217]:  billowing
+[218]:  
+[219]:  
+[220]:  
+[221]:  disparity
+[222]:  
+[223]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = checkered
+T2[2] = 
+T2[3] = 
+T2[4] = coxes
+==================================
+
+[224]:  atrocities
+[225]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 1
+T2[0] = 
+T2[1] = bunyan
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = elect
+T2[6] = 
+T2[7] = 
+T2[8] = biassing
+T2[9] = 
+T2[10] = 
+T2[11] = damnify
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = 
+==================================
+
+[226]:  cemeteries
+[227]:  anarchy
+[228]:  coins
+[229]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = crucifix
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = epsilon
+==================================
+
+[230]:  
+[231]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = behaves
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = den
+T2[7] = 
+T2[8] = avenue
+T2[9] = 
+T2[10] = 
+==================================
+
+[232]:  chamomile
+[233]:  
+[234]:  celebrations
+[235]:  
+[236]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = disaster
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+T2[11] = apertures
+T2[12] = 
+T2[13] = betroths
+T2[14] = 
+T2[15] = finalise
+T2[16] = 
+==================================
+
+[237]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = anthologise
+T2[4] = devilishly
+==================================
+
+[238]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = certainties
+T2[4] = electron
+==================================
+
+[239]:  
+[240]:  cuttingly
+[241]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = cornices
+T2[1] = 
+T2[2] = antagonist
+T2[3] = 
+T2[4] = 
+==================================
+
+[242]:  
+[243]:  counteracting
+[244]:  centimes
+[245]:  closures
+[246]:  confidentiality
+[247]:  
+[248]:  fettered
+[249]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = deism
+T2[2] = baker
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = dressmaking
+T2[8] = 
+T2[9] = 
+T2[10] = 
+==================================
+
+[250]:  
+[251]:  conditionality
+[252]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = conquer
+T2[3] = 
+T2[4] = besieging
+==================================
+
+[253]:  
+[254]:  enthusiasm
+[255]:  compares
+[256]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = contributes
+T2[2] = buggered
+T2[3] = 
+T2[4] = 
+==================================
+
+[257]:  avidly
+[258]:  
+[259]:  esquires
+[260]:  fared
+[261]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = conservatives
+T2[1] = 
+T2[2] = 
+T2[3] = camouflage
+T2[4] = 
+==================================
+
+[262]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = excuse
+T2[1] = dissipating
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[263]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = bird
+T2[2] = 
+T2[3] = 
+T2[4] = contract
+==================================
+
+[264]:  
+[265]:  
+[266]:  
+[267]:  factorise
+[268]:  
+[269]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = 
+T2[1] = convects
+T2[2] = 
+T2[3] = dungeon
+T2[4] = 
+==================================
+
+[270]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = disclaimed
+T2[3] = exults
+T2[4] = 
+==================================
+
+[271]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = bosnia
+T2[3] = charter
+T2[4] = 
+==================================
+
+[272]:  effulgent
+[273]:  collectives
+[274]:  
+[275]:  
+[276]:  
+[277]:  fascia
+[278]:  
+[279]:  avenge
+[280]:  
+[281]:  appointing
+[282]:  ascending
+[283]:  annal
+[284]:  
+[285]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = altitudes
+T2[4] = consigns
+==================================
+
+[286]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = burghers
+T2[2] = 
+T2[3] = 
+T2[4] = dews
+==================================
+
+[287]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = disclaiming
+T2[8] = censored
+T2[9] = 
+T2[10] = 
+T2[11] = bigamous
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = ceded
+T2[16] = 
+==================================
+
+[288]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = danced
+T2[1] = 
+T2[2] = consonant
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = featuring
+T2[9] = 
+T2[10] = 
+==================================
+
+[289]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = 
+T2[1] = discussion
+T2[2] = 
+T2[3] = authenticating
+T2[4] = 
+==================================
+
+[290]:  
+[291]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 2
+T2[0] = 
+T2[1] = 
+T2[2] = blended
+T2[3] = antennas
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = bylaw
+T2[10] = 
+==================================
+
+[292]:  
+[293]:  
+[294]:  
+[295]:  
+[296]:  cribs
+[297]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = decaffeinated
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = chopper
+==================================
+
+[298]:  
+[299]:  
+[300]:  
+[301]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = cruises
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = exalts
+==================================
+
+[302]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = boardroom
+T2[2] = 
+T2[3] = 
+T2[4] = defy
+==================================
+
+[303]:  
+[304]:  
+[305]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = dozy
+T2[2] = 
+T2[3] = 
+T2[4] = brow
+==================================
+
+[306]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = agakhan
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = barber
+==================================
+
+[307]:  bloodstream
+[308]:  
+[309]:  
+[310]:  
+[311]:  
+[312]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = distantly
+T2[3] = congeniality
+T2[4] = 
+==================================
+
+[313]:  cheesemaking
+[314]:  
+[315]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = 
+T2[1] = 
+T2[2] = drones
+T2[3] = abdicate
+T2[4] = 
+==================================
+
+[316]:  darkly
+[317]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = electric
+T2[1] = fireside
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[318]:  
+[319]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 4
+T2[0] = 
+T2[1] = 
+T2[2] = disaggregation
+T2[3] = abbots
+T2[4] = 
+==================================
+
+[320]:  
+[321]:  eire
+[322]:  domed
+[323]:  
+[324]:  burials
+[325]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = complexities
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = dovecote
+==================================
+
+[326]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = chastisement
+T2[4] = coders
+==================================
+
+[327]:  
+[328]:  
+[329]:  combustibles
+[330]:  continuities
+[331]:  caver
+[332]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = assents
+T2[1] = 
+T2[2] = 
+T2[3] = cabman
+T2[4] = 
+==================================
+
+[333]:  embassy
+[334]:  brainstorm
+[335]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 3
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = conglomerates
+T2[6] = 
+T2[7] = erecter
+T2[8] = 
+T2[9] = closedcircuit
+T2[10] = 
+==================================
+
+[336]:  
+[337]:  
+[338]:  
+[339]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = ambassadorial
+T2[1] = 
+T2[2] = 
+T2[3] = canard
+T2[4] = 
+==================================
+
+[340]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = apron
+T2[2] = 
+T2[3] = 
+T2[4] = disrespect
+==================================
+
+[341]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = craftiest
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = booby
+==================================
+
+[342]:  chorale
+[343]:  
+[344]:  feuded
+[345]:  
+[346]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = ancestries
+T2[2] = arbitrators
+T2[3] = 
+T2[4] = 
+==================================
+
+[347]:  
+[348]:  fashion
+[349]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = blizzard
+T2[9] = creamery
+T2[10] = asylums
+==================================
+
+[350]:  
+[351]:  
+[352]:  
+[353]:  
+[354]:  
+[355]:  
+[356]:  dimmest
+[357]:  divergent
+[358]:  chops
+[359]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = expansively
+T2[2] = corporal
+T2[3] = 
+T2[4] = 
+==================================
+
+[360]:  ecclesiastic
+[361]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = distension
+T2[2] = 
+T2[3] = 
+T2[4] = astronomic
+==================================
+
+[362]:  
+[363]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = ecologist
+T2[3] = citruses
+T2[4] = 
+==================================
+
+[364]:  facsimiles
+[365]:  
+[366]:  aupair
+[367]:  banshees
+[368]:  broaching
+[369]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = bloodier
+T2[9] = confuse
+T2[10] = dictatorially
+==================================
+
+[370]:  cycling
+[371]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 3
+T2[0] = centrifugation
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = cripple
+==================================
+
+[372]:  abhorrent
+[373]:  controller
+[374]:  excavate
+[375]:  
+[376]:  
+[377]:  debited
+[378]:  
+[379]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = engendered
+T2[1] = 
+T2[2] = 
+T2[3] = fireproofed
+T2[4] = 
+==================================
+
+[380]:  consorted
+[381]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = entice
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = clutters
+T2[9] = 
+T2[10] = conducted
+==================================
+
+[382]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = dichotomy
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = billings
+==================================
+
+[383]:  
+[384]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = alto
+T2[1] = 
+T2[2] = 
+T2[3] = detractor
+T2[4] = croons
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+==================================
+
+[385]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = endomorphism
+T2[4] = absolutist
+==================================
+
+[386]:  chopin
+[387]:  
+[388]:  
+[389]:  
+[390]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = canaries
+T2[4] = demeaned
+==================================
+
+[391]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = drags
+T2[4] = flamboyant
+==================================
+
+[392]:  encamp
+[393]:  
+[394]:  
+[395]:  dray
+[396]:  
+[397]:  
+[398]:  conventicle
+[399]:  
+[400]:  
+----------------------------------------------
+
+Error Report
+   Number of words that should be in H, but are not: 0
+   Number of words that should not be in H, but are: 0

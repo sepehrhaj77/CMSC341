@@ -1,0 +1,105 @@
+Initial hash:
+h("focus")    = 1
+h("louver")   = 0
+h("wormhole") = 0
+
+---- reboot #1:  m_tsize = 3 m_multiplier = 33 m_factor = 2 m_shift = 1
+h("focus")    = 0
+h("louver")   = 2
+h("wormhole") = 2
+
+---- reboot #2:  m_tsize = 3 m_multiplier = 33 m_factor = 1 m_shift = 2
+h("focus")    = 0
+h("louver")   = 1
+h("wormhole") = 1
+
+---- reboot #3:  m_tsize = 3 m_multiplier = 35 m_factor = 1 m_shift = 1
+h("focus")    = 2
+h("louver")   = 2
+h("wormhole") = 2
+
+---- reboot #4:  m_tsize = 3 m_multiplier = 35 m_factor = 1 m_shift = 0
+h("focus")    = 1
+h("louver")   = 1
+h("wormhole") = 1
+
+---- reboot #5:  m_tsize = 5 m_multiplier = 35 m_factor = 2 m_shift = 2
+h("focus")    = 2
+h("louver")   = 3
+h("wormhole") = 1
+
+---- reboot #6:  m_tsize = 5 m_multiplier = 37 m_factor = 4 m_shift = 3
+h("focus")    = 3
+h("louver")   = 0
+h("wormhole") = 4
+
+---- reboot #7:  m_tsize = 5 m_multiplier = 37 m_factor = 3 m_shift = 4
+h("focus")    = 4
+h("louver")   = 2
+h("wormhole") = 2
+
+---- reboot #8:  m_tsize = 5 m_multiplier = 37 m_factor = 4 m_shift = 3
+h("focus")    = 3
+h("louver")   = 0
+h("wormhole") = 4
+
+---- reboot #9:  m_tsize = 5 m_multiplier = 39 m_factor = 3 m_shift = 1
+h("focus")    = 0
+h("louver")   = 1
+h("wormhole") = 1
+
+---- reboot #10:  m_tsize = 7 m_multiplier = 39 m_factor = 2 m_shift = 4
+h("focus")    = 0
+h("louver")   = 5
+h("wormhole") = 3
+
+---- reboot #11:  m_tsize = 7 m_multiplier = 39 m_factor = 2 m_shift = 0
+h("focus")    = 3
+h("louver")   = 1
+h("wormhole") = 6
+
+---- reboot #12:  m_tsize = 7 m_multiplier = 41 m_factor = 1 m_shift = 6
+h("focus")    = 3
+h("louver")   = 1
+h("wormhole") = 1
+
+---- reboot #13:  m_tsize = 7 m_multiplier = 41 m_factor = 3 m_shift = 3
+h("focus")    = 1
+h("louver")   = 1
+h("wormhole") = 1
+
+---- reboot #14:  m_tsize = 7 m_multiplier = 41 m_factor = 5 m_shift = 6
+h("focus")    = 5
+h("louver")   = 0
+h("wormhole") = 0
+
+---- reboot #15:  m_tsize = 11 m_multiplier = 43 m_factor = 8 m_shift = 1
+h("focus")    = 1
+h("louver")   = 6
+h("wormhole") = 0
+
+---- reboot #16:  m_tsize = 11 m_multiplier = 43 m_factor = 5 m_shift = 9
+h("focus")    = 9
+h("louver")   = 0
+h("wormhole") = 9
+
+---- reboot #17:  m_tsize = 11 m_multiplier = 43 m_factor = 5 m_shift = 0
+h("focus")    = 0
+h("louver")   = 2
+h("wormhole") = 0
+
+---- reboot #18:  m_tsize = 11 m_multiplier = 45 m_factor = 6 m_shift = 9
+h("focus")    = 6
+h("louver")   = 6
+h("wormhole") = 6
+
+---- reboot #19:  m_tsize = 11 m_multiplier = 45 m_factor = 7 m_shift = 0
+h("focus")    = 2
+h("louver")   = 8
+h("wormhole") = 8
+
+---- reboot #20:  m_tsize = 13 m_multiplier = 45 m_factor = 4 m_shift = 9
+h("focus")    = 5
+h("louver")   = 9
+h("wormhole") = 6
+

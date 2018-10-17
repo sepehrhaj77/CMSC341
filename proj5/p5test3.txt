@@ -1,0 +1,47 @@
+==== Called SecondaryHT  ====
+aardvark(3238181100) aardwolf(3238232080) aaron(118648145) aback(118665170) abacus(3915951055) 
+SecondaryHT constructor, # attempts = 1
+=== Secondary Hash Table Dump: ===
+Table size = 29
+# of items = 5
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = aardvark
+T2[5] = abacus
+T2[6] = aardwolf
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+T2[11] = 
+T2[12] = 
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = aback
+T2[17] = 
+T2[18] = aaron
+T2[19] = 
+T2[20] = 
+T2[21] = 
+T2[22] = 
+T2[23] = 
+T2[24] = 
+T2[25] = 
+T2[26] = 
+T2[27] = 
+T2[28] = 
+==================================
+Correct: aardvark is in the hash table
+Correct: aardwolf is in the hash table
+Correct: aaron is in the hash table
+Correct: aback is in the hash table
+Correct: abacus is in the hash table
+Correct: altitudes is not in the hash table
+Correct: alto is not in the hash table
+Correct: ambassadorial is not in the hash table
+Correct: amenity is not in the hash table
+Correct: ammonium is not in the hash table

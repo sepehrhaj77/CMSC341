@@ -1,0 +1,345 @@
+Script started on Mon 04 Dec 2017 11:28:05 AM EST
+linux1[101]% valgrind ./t8.out
+==18545== Memcheck, a memory error detector
+==18545== Copyright (C) 2002-2012, and GNU GPL'd, by Julian Seward et al.
+==18545== Using Valgrind-3.8.1 and LibVEX; rerun with -h for copyright info
+==18545== Command: ./t8.out
+==18545== 
+==== Called SecondaryHT  ====
+adventurously(2662040037) affixes(540055654) alleles(781826722) amenity(812981335) 
+---- reboot #1:  m_tsize = 17 m_multiplier = 33 m_factor = 9 m_shift = 9
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+acres(118719694) altitudes(2914175855) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+absolutists(1804216093) aeolian(511684889) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+abbots(3916000027) abstract(292647668) actual(3917838714) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+abhorrent(3846096037) alto(3607440) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 3 m_shift = 1
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+accumulate(649604228) agakhan(573315755) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+acquittal(2477402728) almshouses(3550795972) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+entrepreneurship(2444529843) flyaway(2959484349) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+furnishing(523624541) glace(126140060) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+fireproofed(2686908181) gibed(126033403) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 0
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 1
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 2 m_shift = 0
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+enthrone(1605361411) haltered(703140745) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+escarpment(2255269714) fared(124577410) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+featuring(3782931621) healthful(3081957757) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+gale(3810809) heathers(1143650100) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+elk(113660) feuded(4115905069) hasnt(126950654) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 1 m_shift = 6
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+extolling(2686705846) gangling(1097466599) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+forensically(718140363) gaging(4149799405) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+encephalopathy(664577269) glans(126140437) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+facsimiles(2920859616) frond(125185369) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+entrance(1616608240) falsifying(4227027628) germanic(2131638246) guava(126464116) heartbreak(2072529433) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+epsilon(1817718394) headlamp(1124814588) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+extra(124220644) frictions(551946513) garbles(3812185632) ground(4170260623) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+extracted(2790755140) falls(124571122) fortified(936088188) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 3 m_shift = 9
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+freehand(1554072733) gasholder(4061822073) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 0
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+expertness(6591953) ferment(2677647217) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+encamp(4086793108) fetes(124723351) foundation(472369527) heathenism(4189259622) 
+---- reboot #1:  m_tsize = 17 m_multiplier = 33 m_factor = 10 m_shift = 4
+---- reboot #2:  m_tsize = 17 m_multiplier = 33 m_factor = 8 m_shift = 12
+---- reboot #3:  m_tsize = 17 m_multiplier = 35 m_factor = 13 m_shift = 6
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+futilely(1725431982) greece(4169883467) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+glowers(4239864675) grasp(126356221) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+enthusiasm(308856833) fencings(2294754893) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 4
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+excerpt(2111689627) extraordinarily(15090433) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+entice(4087412408) gnostic(23040439) governments(2687182168) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+enumerator(1512380258) flexion(2936577685) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+equivocal(1778964105) gleanings(3537346648) gleefulness(1280566461) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 8 m_shift = 7
+---- reboot #2:  m_tsize = 11 m_multiplier = 33 m_factor = 8 m_shift = 6
+---- reboot #3:  m_tsize = 11 m_multiplier = 35 m_factor = 7 m_shift = 7
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+felling(2670500097) fingerless(3558669746) floater(2947621997) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 3 m_shift = 7
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+fable(124560218) gropingly(2161018075) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+embassy(1679871828) esplanade(3341562701) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 1 m_shift = 4
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+expansively(627080376) galactic(1011768664) gangrene(1097677863) gaucherie(2145576109) grew(3829109) 
+---- reboot #1:  m_tsize = 29 m_multiplier = 33 m_factor = 2 m_shift = 19
+---- reboot #2:  m_tsize = 29 m_multiplier = 33 m_factor = 28 m_shift = 10
+---- reboot #3:  m_tsize = 29 m_multiplier = 35 m_factor = 18 m_shift = 15
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+executable(1184121314) gating(4150266586) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+fireside(3324926699) gadding(3795651630) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+gerund(4154951461) goodhope(2033589461) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+forgeries(423015654) foxtrots(2736372233) groomers(1626240078) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 8 m_shift = 3
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+finalise(3163390379) heathland(3380947913) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+feinting(2112513140) fifes(124851853) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 2
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+footmen(3065703352) gouging(68848304) 
+---- reboot #1:  m_tsize = 5 m_multiplier = 33 m_factor = 2 m_shift = 4
+---- reboot #2:  m_tsize = 5 m_multiplier = 33 m_factor = 4 m_shift = 4
+---- reboot #3:  m_tsize = 5 m_multiplier = 35 m_factor = 4 m_shift = 0
+SecondaryHT constructor, # attempts = 4
+==== Called SecondaryHT  ====
+emissivity(3229665910) glittered(863832452) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+factorise(3388704832) forenames(354811584) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+excess(4098656875) frivolities(19022416) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+forename(2483611821) frankfurter(3122686090) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+parchment(2975355874) pens(4138678) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+papers(207369867) pensioning(3480174618) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+pastoral(2622575174) perambulated(545245302) pets(4138876) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 5 m_shift = 5
+SecondaryHT constructor, # attempts = 2
+==== Called SecondaryHT  ====
+pampers(2545061784) payrolls(2855009526) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+patent(207513484) perish(212189803) perspicuous(2606844514) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+pane(4134308) panelled(2408995173) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+phenomenon(1803997239) phonemic(2908894707) 
+SecondaryHT constructor, # attempts = 1
+==== Called SecondaryHT  ====
+padlocking(3040324252) paleface(2330496721) paying(207697512) peppered(3370970645) petrology(533711653) picnic(216399542) 
+---- reboot #1:  m_tsize = 37 m_multiplier = 33 m_factor = 17 m_shift = 9
+---- reboot #2:  m_tsize = 37 m_multiplier = 33 m_factor = 19 m_shift = 23
+---- reboot #3:  m_tsize = 37 m_multiplier = 35 m_factor = 19 m_shift = 34
+SecondaryHT constructor, # attempts = 4
+------------- PerfectHT::dump()  -------------
+table size = 29
+
+[0]:  
+[1]:  
+[2]:  ambassadorial
+[3]:  
+=== Secondary Hash Table Dump: ===
+Table size = 17
+# of items = 4
+# of attempts = 2
+T2[0] = 
+T2[1] = alleles
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = affixes
+T2[6] = 
+T2[7] = 
+T2[8] = 
+T2[9] = 
+T2[10] = 
+T2[11] = 
+T2[12] = amenity
+T2[13] = 
+T2[14] = 
+T2[15] = 
+T2[16] = adventurously
+==================================
+
+[4]:  
+[5]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = altitudes
+T2[1] = 
+T2[2] = 
+T2[3] = 
+T2[4] = acres
+==================================
+
+[6]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = absolutists
+T2[2] = aeolian
+T2[3] = 
+T2[4] = 
+==================================
+
+[7]:  
+[8]:  
+[9]:  
+=== Secondary Hash Table Dump: ===
+Table size = 11
+# of items = 3
+# of attempts = 1
+T2[0] = 
+T2[1] = actual
+T2[2] = 
+T2[3] = 
+T2[4] = 
+T2[5] = 
+T2[6] = 
+T2[7] = 
+T2[8] = abstract
+T2[9] = 
+T2[10] = abbots
+==================================
+
+[10]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 2
+T2[0] = abhorrent
+T2[1] = alto
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[11]:  
+[12]:  
+[13]:  abdicate
+[14]:  adults
+[15]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = 
+T2[1] = 
+T2[2] = accumulate
+T2[3] = 
+T2[4] = agakhan
+==================================
+
+[16]:  
+=== Secondary Hash Table Dump: ===
+Table size = 5
+# of items = 2
+# of attempts = 1
+T2[0] = acquittal
+T2[1] = almshouses
+T2[2] = 
+T2[3] = 
+T2[4] = 
+==================================
+
+[17]:  
+[18]:  accomplish
+[19]:  absolutist
+[20]:  
+[21]:  alining
+[22]:  
+[23]:  
+[24]:  
+[25]:  
+[26]:  
+[27]:  aid
+[28]:  
+----------------------------------------------
+==18545== 
+==18545== HEAP SUMMARY:
+==18545==     in use at exit: 0 bytes in 0 blocks
+==18545==   total heap usage: 766 allocs, 766 frees, 24,883 bytes allocated
+==18545== 
+==18545== All heap blocks were freed -- no leaks are possible
+==18545== 
+==18545== For counts of detected and suppressed errors, rerun with: -v
+==18545== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 8 from 6)
+linux1[102]% exit
+exit
+
+Script done on Mon 04 Dec 2017 11:28:14 AM EST

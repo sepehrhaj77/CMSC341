@@ -1,0 +1,23 @@
+==== Called SecondaryHT  ====
+aardvark(3238181100) aardvark(3238181100) aardvark(3238181100) 
+---- reboot #1:  m_tsize = 11 m_multiplier = 33 m_factor = 8 m_shift = 6
+---- reboot #2:  m_tsize = 11 m_multiplier = 33 m_factor = 6 m_shift = 2
+---- reboot #3:  m_tsize = 11 m_multiplier = 35 m_factor = 5 m_shift = 2
+---- reboot #4:  m_tsize = 11 m_multiplier = 35 m_factor = 2 m_shift = 6
+---- reboot #5:  m_tsize = 13 m_multiplier = 35 m_factor = 6 m_shift = 3
+---- reboot #6:  m_tsize = 13 m_multiplier = 37 m_factor = 7 m_shift = 7
+---- reboot #7:  m_tsize = 13 m_multiplier = 37 m_factor = 8 m_shift = 11
+---- reboot #8:  m_tsize = 13 m_multiplier = 37 m_factor = 4 m_shift = 2
+---- reboot #9:  m_tsize = 13 m_multiplier = 39 m_factor = 1 m_shift = 10
+---- reboot #10:  m_tsize = 17 m_multiplier = 39 m_factor = 14 m_shift = 15
+---- reboot #11:  m_tsize = 17 m_multiplier = 39 m_factor = 8 m_shift = 11
+---- reboot #12:  m_tsize = 17 m_multiplier = 41 m_factor = 8 m_shift = 13
+---- reboot #13:  m_tsize = 17 m_multiplier = 41 m_factor = 13 m_shift = 9
+---- reboot #14:  m_tsize = 17 m_multiplier = 41 m_factor = 11 m_shift = 8
+---- reboot #15:  m_tsize = 19 m_multiplier = 43 m_factor = 14 m_shift = 6
+---- reboot #16:  m_tsize = 19 m_multiplier = 43 m_factor = 9 m_shift = 9
+---- reboot #17:  m_tsize = 19 m_multiplier = 43 m_factor = 4 m_shift = 7
+---- reboot #18:  m_tsize = 19 m_multiplier = 45 m_factor = 6 m_shift = 6
+---- reboot #19:  m_tsize = 19 m_multiplier = 45 m_factor = 16 m_shift = 6
+---- reboot #20:  m_tsize = 23 m_multiplier = 45 m_factor = 2 m_shift = 8
+Exception caught: Too many attempts at secondary table!

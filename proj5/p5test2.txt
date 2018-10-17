@@ -1,0 +1,100 @@
+--------------------------------------------------
+Trial #1
+--------------------------------------------------
+table size = 1009
+number of non-empty slots = 640
+average number of items in non-empty slots = 1.5625
+number of slots with collisions = 271
+maxCollisionsInOneSlot = 4
+
+---- reboot #1:  m_tsize = 1009 m_multiplier = 33 m_factor = 418 m_shift = 384
+--------------------------------------------------
+Trial #2
+--------------------------------------------------
+table size = 1009
+number of non-empty slots = 629
+average number of items in non-empty slots = 1.58983
+number of slots with collisions = 260
+maxCollisionsInOneSlot = 6
+
+---- reboot #2:  m_tsize = 1009 m_multiplier = 33 m_factor = 958 m_shift = 638
+--------------------------------------------------
+Trial #3
+--------------------------------------------------
+table size = 1009
+number of non-empty slots = 639
+average number of items in non-empty slots = 1.56495
+number of slots with collisions = 252
+maxCollisionsInOneSlot = 7
+
+---- reboot #3:  m_tsize = 1009 m_multiplier = 35 m_factor = 784 m_shift = 635
+--------------------------------------------------
+Trial #4
+--------------------------------------------------
+table size = 1009
+number of non-empty slots = 617
+average number of items in non-empty slots = 1.62075
+number of slots with collisions = 263
+maxCollisionsInOneSlot = 8
+
+---- reboot #4:  m_tsize = 1009 m_multiplier = 35 m_factor = 529 m_shift = 845
+--------------------------------------------------
+Trial #5
+--------------------------------------------------
+table size = 1009
+number of non-empty slots = 640
+average number of items in non-empty slots = 1.5625
+number of slots with collisions = 261
+maxCollisionsInOneSlot = 5
+
+---- reboot #5:  m_tsize = 1013 m_multiplier = 35 m_factor = 43 m_shift = 617
+--------------------------------------------------
+Trial #6
+--------------------------------------------------
+table size = 1013
+number of non-empty slots = 652
+average number of items in non-empty slots = 1.53374
+number of slots with collisions = 272
+maxCollisionsInOneSlot = 4
+
+---- reboot #6:  m_tsize = 1013 m_multiplier = 37 m_factor = 222 m_shift = 953
+--------------------------------------------------
+Trial #7
+--------------------------------------------------
+table size = 1013
+number of non-empty slots = 649
+average number of items in non-empty slots = 1.54083
+number of slots with collisions = 264
+maxCollisionsInOneSlot = 6
+
+---- reboot #7:  m_tsize = 1013 m_multiplier = 37 m_factor = 984 m_shift = 970
+--------------------------------------------------
+Trial #8
+--------------------------------------------------
+table size = 1013
+number of non-empty slots = 633
+average number of items in non-empty slots = 1.57978
+number of slots with collisions = 270
+maxCollisionsInOneSlot = 5
+
+---- reboot #8:  m_tsize = 1013 m_multiplier = 37 m_factor = 992 m_shift = 731
+--------------------------------------------------
+Trial #9
+--------------------------------------------------
+table size = 1013
+number of non-empty slots = 635
+average number of items in non-empty slots = 1.5748
+number of slots with collisions = 266
+maxCollisionsInOneSlot = 5
+
+---- reboot #9:  m_tsize = 1013 m_multiplier = 39 m_factor = 763 m_shift = 647
+--------------------------------------------------
+Trial #10
+--------------------------------------------------
+table size = 1013
+number of non-empty slots = 655
+average number of items in non-empty slots = 1.52672
+number of slots with collisions = 253
+maxCollisionsInOneSlot = 5
+
+---- reboot #10:  m_tsize = 1019 m_multiplier = 39 m_factor = 38 m_shift = 426
